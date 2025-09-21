@@ -502,6 +502,9 @@
   .order-header{
     font-size:15px;
   }
+  .order-details{
+    height:300px;
+  }
 }
 @media (max-width:376px){
   .header1{
